@@ -5,4 +5,4 @@ Created on 2018/10/10
 '''
 
 for x in {1,2,3}:
-    print('mohutyan kawaii!!')
+    print('mohutyan kawaii')
